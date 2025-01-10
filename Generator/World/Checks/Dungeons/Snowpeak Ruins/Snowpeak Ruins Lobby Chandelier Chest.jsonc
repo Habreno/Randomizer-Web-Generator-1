@@ -1,6 +1,6 @@
 {
     "requirements": "(((Snowpeak_Ruins_Small_Key, 3) and Snowpeak_Ruins_Ordon_Goat_Cheese)) and Ball_and_Chain",
-    "glitchedRequirements": "((((Snowpeak_Ruins_Small_Key, 3) and Snowpeak_Ruins_Ordon_Goat_Cheese)) and Ball_and_Chain) or (Shadow_Crystal and CanDoLJA)",
+    "glitchedRequirements": "((((Snowpeak_Ruins_Small_Key, 3) and Snowpeak_Ruins_Ordon_Goat_Cheese)) and Ball_and_Chain) or (Shadow_Crystal and CanDoLJA) or ((Progressive_Clawshot, 1) and Ball_and_Chain)",
     "checkCategory": ["Chest", "Dungeon", "Snowpeak Ruins"],
     "itemId": "Piece_of_Heart"
 }
